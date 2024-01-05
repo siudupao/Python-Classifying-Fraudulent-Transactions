@@ -11,3 +11,5 @@ The dataset used for this project is called [Synthetic Financial Datasets For Fr
 The dataset is a synthetic dataset generated based on real mobile money transactions extracted from one month of financial logs from a mobile money service implemented in an African country. This dataset was generated specifically for fraud detection research.
 
 
+**Please open my [Jupyter Notebook](https://github.com/siudupao/Python-Classifying-Fraudulent-Transactions/blob/main/exploring-fraudulent-transactions.ipynb) to see my full project!**
+
